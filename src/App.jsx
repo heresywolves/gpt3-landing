@@ -9,7 +9,7 @@ function App() {
 
   return (
     <div className='App'>
-      <Preloader />
+      {/* <Preloader /> */}
       <Favicon url={logo} />
       <div className="gradient__bg">
         <Navbar />
