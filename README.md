@@ -4,3 +4,4 @@ This template landing page is build with React + Vite. All content is made up an
 
 This website is available live:
 
+https://gpt3-landing-pi.vercel.app/
