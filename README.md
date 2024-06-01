@@ -1,7 +1,8 @@
-# GPT-3 Landing Page
+# GPT-3 Лэндинг
 
-This template landing page is build with React + Vite. All content is made up and serves as a boilerplate.
+React + Vite
 
-This website is available live:
+Данный проект был создан для портфолио используя БЭМ методологию и компонентный подход.
 
+Увидеть публикацию можно здесь:
 https://howlbones.github.io/gpt3-landing/
